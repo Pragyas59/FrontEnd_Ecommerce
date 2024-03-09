@@ -28,4 +28,4 @@ To get a local copy up and running follow these simple steps:
 
 4. **Commit Changes**: After writing the content, scroll down to the bottom of the page, add a commit message, and click on the "Commit new file" button.
 
-This README will provide an overview of your project, including its features, technologies used, how to get started, how to contribute, and information about the license. Make sure to update the content with relevant information about your project.
+
